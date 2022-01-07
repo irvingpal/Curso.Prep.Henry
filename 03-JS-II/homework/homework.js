@@ -61,7 +61,8 @@ else if ( idioma === 'ingles') {
 else {
   return "Hola!";
 }
-}
+
+
 
 function colors(color) {
   //La función recibe un color. Devolver el string correspondiente:
